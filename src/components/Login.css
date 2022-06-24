@@ -1,0 +1,32 @@
+.login {
+    text-align: center;
+    margin-top: 17%;
+    border: solid rgb(249, 245, 245) 2px;
+    width: 450px;
+    height: 350px;
+    padding-top: 50px;
+    margin-left: 33%;
+    border-radius: 5px;
+
+    color: white;
+}
+
+body {
+
+    background-size: cover;
+    background-image: url("sign.jpg");
+}
+
+#txt {
+    width: 280px;
+    height: 25px;
+}
+
+#Btn {
+    width: 110px;
+    height: 26px;
+}
+
+#Btn2 {
+    width: 250px;
+}
